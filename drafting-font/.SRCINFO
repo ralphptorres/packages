@@ -1,0 +1,15 @@
+pkgbase = drafting-font
+	pkgdesc = A monospace font by indestructible type* inspired by typewriters
+	pkgver = 1.1
+	pkgrel = 5
+	url = https://indestructibletype.com/Drafting
+	arch = any
+	license = OFL
+	source = https://github.com/indestructible-type/Drafting/archive/14182b3381808ecb310dbe83673ae86a7e4e0e2d.tar.gz
+	sha256sums = d87d678d1d5ec86eb2f025f42a4722f8873fce953318bb4421953ec700dbe3a4
+
+pkgname = otf-drafting
+
+pkgname = ttf-drafting
+
+pkgname = ttf-drafting-variable
